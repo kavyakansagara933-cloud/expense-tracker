@@ -1,1 +1,7 @@
-[]
+[
+    {
+        "type": "income",
+        "amount": 50000.0,
+        "category": "Salary"
+    }
+]
